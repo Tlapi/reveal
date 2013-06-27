@@ -1,3 +1,7 @@
+<h1>About this fork</h1>
+
+<p>This fork is made to make reveal plugin working with the latest jQuery</p>
+
 <h1>Reveal: A jQuery Plugin For Modals</h1>
 <p>Reveal is a jQuery plugin for dead simple modals that comes with some sexy base CSS and can be implemented programatically or with the new HTML5 custom data attributes (data-attribute).</p>
 
